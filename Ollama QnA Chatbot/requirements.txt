@@ -10,5 +10,4 @@ fastapi
 uvicorn
 langchain_community
 transformers
-langchain-chroma
 streamlit
