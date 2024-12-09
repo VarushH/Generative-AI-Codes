@@ -1,0 +1,1173 @@
+     Answer   to MTP_Final_Syllabus     2016_Dec2023_Set1
+
+
+|    |
+|:---|
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAPER     18  - INDIRECT      TAX   LAWS     AND    PRACTICE
+
+|    |
+|:---|
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+|    |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Dos, The Institute of Cost Accountants of India (Statutory Body under an Act of Parliament) Page 1
+     Answer   to MTP_Final_Syllabus     2016_Dec2023_Set1
+
+
+                Paper 18- Indirect Tax Laws and Practice
+
+
+Full Marks: 100                                   Time allowed: 3 hours
+
+           The figures in the margin on the right side indicate full marks.
+                Working notes should form part of the answer.
+
+                             Section – A
+
+
+   Answer Question No. 1 which is compulsory and any four from the rest of this section.
+
+1.  Choose the correct answer with justification/ workings wherever applicable: [7×2=14]
+
+
+    (i) The GST return form to be filed by a Composition dealer/supplier is
+        ______________ and the same had to be furnished _____________________.
+
+        a. GSTR-1, Monthly
+        b. GSTR-1, Quarterly
+        c. GSTR-4, Monthly
+
+        d. GSTR-4, Annually
+
+    (ii) Under GST Act a supply of assortment of sweets, chocolates and firecrackers
+
+        packed in a gift hamper is:
+        a. Joint supply
+        b. Composite supply
+
+        c. Mixed supply
+        d. Assorted supply
+
+
+    (iii) The due date to file GSTR-7 (Return for authorities deducting tax at source) is:
+        a. 10th of the next month
+        b. 13th of the next month
+
+        c. 18th of the next month
+        d. 20th of the next month.
+
+
+    (iv) Mr. C of Chennai supplied goods to M/s Smart Jet Airlines of Chennai flying
+        between Delhi-Mumbai. The goods are loaded in the aircraft in Delhi. The place
+        of supply of goods will be:
+
+       a. Chennai
+       b. Delhi
+       c. Mumbai
+
+       d. None of the above.
+
+
+
+
+  Dos, The Institute of Cost Accountants of India (Statutory Body under an Act of Parliament) Page 2
+     Answer   to MTP_Final_Syllabus     2016_Dec2023_Set1
+
+
+    (v) ABC Ltd. has income from renting of vacant land to a stud firm of ₹1,00,000 and
+        leasing of vacant land to a cattle firm of ₹50,000. The value of taxable supply will
+
+        be:
+        a. ₹1,00,000
+        b. ₹50,000
+
+        c. ₹1,50,000
+        d. Nil
+
+    (vi) Which state became the first state of India to ratify GST bill?
+        a. Bihar
+
+        b. Telangana
+        c. Assam
+        d. Andhra Pradesh:
+
+
+    (vii) For an E-commerce operator registration threshold limit is ____________.
+        a. `20 lakhs
+        b. ` 50 lakhs
+
+        c. ` 75 lakhs
+        d. None of above.
+
+
+Answer:
+         (i)   d
+         (ii)  c
+
+         (iii) a
+         (iv)  b
+         (v)   a
+
+         (vi)  c
+         (vii) d
+
+
+
+2.  (a) (i) Crown Beers India Pvt. Ltd., supplies raw material to a job worker
+            Kareena Ltd. for manufacture of alcoholic liquor for human consumption.
+
+            After completing the job-work, the finished product of 5,000 beer bottles
+            are returned to Crown Beers India Pvt. Ltd., putting the retail sale price as
+            `200 on each bottle (inclusive of duties and taxes). Kareena Ltd., charged
+
+            100 per bottle as job work charges of carrying out of intermediate
+            production process of alcoholic liquor for human consumption from Crown
+            Beers India Pvt. Ltd. Find the GST liability if rate is 18% (CGST 9% and
+            SGST 9%) in the hands of Kareena Ltd.              [4]
+
+        (ii) A contract awarded by Bombay Municipal Corporation (BMC) for repair
+            of a particular road to M/s B Ltd., with terms and conditions that the entire
+            work should be completed within 30 days. However, there is a delay of 10
+
+
+  Dos, The Institute of Cost Accountants of India (Statutory Body under an Act of Parliament) Page 3
+     Answer   to MTP_Final_Syllabus     2016_Dec2023_Set1
+
+
+            days to complete the work. BMC charged liquidated damages of `1,20,000
+            and the same recovered from M/s B Ltd. Applicable rate of CGST 9% and
+
+            SGST 9%. Previous year turnover of M/s B Ltd. `2 crores. Find the
+            following:
+            (1) Is it taxable supply?
+
+            (2) Who is liable to pay GST and on what amount?
+            (3) Total tax liability, if any.                   [3]
+
+    (b) (i) M/s X Ltd., being a manufacturer, sold goods to M/s Y Ltd., wholesaler, and
+
+            issued invoice for the sale on 01-08-20XX.
+            Find the time of supply of goods in each of the following independent cases:
+            (I) M/s X Ltd., removes the goods for delivery to M/s Y Ltd., on 16th
+
+                August 20XX.
+            (II) M/s. Y Ltd., collects the goods from premises of M/s X Ltd., on 10th
+                August 20XX.
+
+            (III) M/s Y Ltd., made full payment on 26th July 20XX.
+            (IV) M/s Y Ltd., credited the payment in bank account of M/s X Ltd., on
+                28th July 20XX for 3/4th of goods, M/s X Ltd., recorded the same as
+
+                receipts in his books on 3rd August 20XX. The goods were dispatched
+                on 1st August 20XX from the warehouse.         [5]
+
+
+        (ii) Bharat Gas sells cooking gas cylinders. Subsidy directly transferred to the
+            account of the customer. Selling price per cylinder is ` 800. Customer
+            received subsidy ` 200 directly from Government to his bank account. Net
+
+            outflow of the buyer is ` 600. Find the value of supply of goods (per
+            cylinder) in the hands of Bharat Gas.              [2]
+
+
+Answer:
+(a) (i) Carrying out of intermediate production process of alcoholic liquor for human consumption
+    on job work basis attract GST.
+     | CGST (5,000 bottles x `100 x 9%)    | ` 45,000   |
+|:------------------------------------|:-----------|
+| SGST (5,000 bottles x `100 x 9%)    | ` 45,000   |
+| Total tax liability of Kareena Ltd. | ` 90,000   |
+
+
+
+    Note: GST not attract on manufacture of alcoholic liquor. Since, it is the State subject, which
+
+    will attract State Excise Duty.
+
+(a) (ii) (1) It is not taxable supply of service.
+     (2) M/s B Ltd. being recipient of service is liable to pay GST if it is taxable supply. In this
+     case it is exempted supply. Since, main service is exempt and hence anciliary service is also
+     exempt (vide CBIC Circular No. 178/10/2022 GST dt. 03.08.2022). Since, the contractor
+
+     has performed the contract, but there is a delay of 10 days.
+     (3) tax liability is nil.
+
+
+  Dos, The Institute of Cost Accountants of India (Statutory Body under an Act of Parliament) Page 4
+          Answer   to MTP_Final_Syllabus     2016_Dec2023_Set1
+
+
+
+     (b) (i) (I) 1st August 20XX is the time of supply of goods. i.e. Earlier of the following:
+            • Date of Invoice - 1st August 20XX
+
+            or
+            • Date on which invoice is required to be issued - 16th August 20XX.
+         (II) 1st August 20XX is the time of supply of goods. i.e. Earlier of the following:
+            • Date of Invoice - 1st August 20XX
+
+            or
+            • Date on which goods is delivered - 10th August 20XX.
+         (III) 1st August 20XX is the time of supply of goods
+            • Date of Invoice - 1st August 20XX
+
+
+     (b) (ii) Since, the amount of subsidy is directly credited to the account holder and not received by
+          the Bharat Gas making the supply. Therefore, such subsidy will not be considered as part of
+          transaction value as it is not received by the Bharat Gas making the supply.
+          Hence, transaction value is ` 800 per cylinder.
+
+
+     3.  (a) (i) Write down the procedures for registration under GST as per sec. 25 of the
+                 CGST Act.                                          [5]
+
+
+             (ii) State the persons who are not liable for registration. [3]
+
+         (b) Mr. X has cleared goods from his factory on 20th May 2017 for sale to Mr. Y for
+
+             ` 5,00,000. Effective rate of E.D@12.5%. However, E.D ` 62,500 has been paid
+             on 6th June 2017. The consignment received by Mr. Y on 5th July 2017.
+             Find the following:
+
+             (A) Whether Mr. Y is eligible for ITC and if so for what amount?
+             (B) Time limit within which receipt of inputs should record in the books of
+                 account of Mr. Y.
+
+             (C) Mr. Y recorded receipt of inputs in the books of account on 15-8-2017, if so
+                 can be avail the ITC?                              [6]
+
+
+     Answer:
+     (a) (i) Registration Procedure under GST [u/s 25 of CGST Act]:
+         Every person who is liable to be registered shall apply for registration within 30 days from
+         the date on which he becomes liable to registration, before applying for registration declare
+         his:
+
+         1. Legal name of business
+         2. PAN,
+         3. Mobile number,
+
+         4. e-mail address,
+         5. State or Union territory
+         in Part A of Form GST REG -01 on Common Portal.
+
+
+       Dos, The Institute of Cost Accountants of India (Statutory Body under an Act of Parliament) Page 5
+     Answer   to MTP_Final_Syllabus     2016_Dec2023_Set1
+
+
+    On successful verification of these numbers, a reference number will be generated.
+    Applicant shall submit Part B of Form GST REG-01, duly signed, along with documents
+    specified in the said Form at the Common Portal.
+
+    Form GST REG – 02: Acknowledgement of Application
+    If these documents are found to be in order, the Proper Officer shall approve the registration
+
+    within 3 working days from the date of submission.
+
+(a) (ii) The persons who are not liable for registration:
+
+     Sec 23(1)(a) of CGST Act: Any person engaged exclusively in the business of supplying of
+     goods or services or both they are not liable to tax or wholly exempt from tax under CGST
+     or IGST.
+     Sec 23(1)(b): An agriculturist, to the extent of supply of produce out of cultivation of land.
+
+     Sec. 23(2): The Government may, on the recommendation of the GST Council.
+
+
+(b) (A) Yes. Mr. Y is eligible to avail the ITC of ` 62,500 provided he deals with taxable supplies
+  being registered person.
+  (B) Inputs or Input Services recorded in the books of account ≤ 30 days from 1-7-2017.
+  Therefore, Mr. Y should be account for by 30th July 2017.
+  (C) Since, period of 30 days may, on sufficient cause being shown, be extended by the
+  Commissioner for a further period not exceeding 30 days.
+  In the given Mr. Y can take credit on inputs on 15th Aug 2017, provided permission granted by
+
+  the Commissioner for extension not exceeded 30 days.
+
+4.  (a) (i) X Ltd. received a protective demand notice from the department Assistant
+
+            Commissioner of Central Tax on 1.9.2022 under Section 73 of the CGST
+            Act, 2017 where
+            |                   | Amount `                                       |
+|:------------------|:-----------------------------------------------|
+| CGST & SGST due = | 5,00,000                                       |
+| Interest =        | @15% p.a. for no. of days delay.               |
+| Penalty =         | 10% of tax due or ` 10,000 whichever is higher |
+
+
+
+
+
+            The assessee went for appeal and filed the case in the Appellate Authority
+            on 25.9.2022. This appeal has been taken up for hearing on 06-10-2022.
+
+
+            Case 1: How much has to pay as pre-deposit of duty under section 107(6)
+            of the CGST Act, 2017 and date of pre- deposit of duty by X Ltd. to
+
+            entertain appeal by the Appellate Authority (i.e. Commissioner (Appeals)).
+
+            Case 2: Whether your answer is different if the assessee appeals only part of
+            the amount say ` 3,00,000 is in dispute arising from the said order. [4]
+
+
+        (ii) Considered the previous question where Appellate Authority passed the
+            order against the assessee, if so how much has to pay as pre-deposit of duty
+
+
+  Dos, The Institute of Cost Accountants of India (Statutory Body under an Act of Parliament) Page 6
+     Answer   to MTP_Final_Syllabus     2016_Dec2023_Set1
+
+
+            under section 112(8) of the CGST Act, 2017 to entertain appeal by the
+            Goods and Services Tax Appellate Tribunal (GSTAT). [3]
+
+
+    (b) Raman Hotels supplying only accommodation services in Chennai. Turnover of
+        Raman Hotels is less than 20 Lakhs. Raman Hotels listed hotel on online platform
+
+        namely Makemytrip.
+        The following categories of rooms get booked by the Makemytrip company who
+        pay to Raman Hotels after deducting their commission.
+
+        (A) Declared value per room (category 1), Non AC Room `950 per Night.
+        (B) Declared value per room (category 2), AC Room `1,800 per Night.
+        (C) Declared value per room (category 3), AC Room `7,000 per Night, where
+
+            additional bed `1,800 per Night.
+        (D) Declare value per room (category 4), AC Room `10,000 per Night, but
+            amount charged is `7000.
+
+        You are required to answer:
+        (1) Who is liable to pay GST and
+        (2) Net GST liability.                                 [7]
+
+
+Answer:
+(a) (i) Case 1: Pre-deposit is ` 50,000 (`5,00,000 x 10%) is to deposit on or before 6th October
+     2022.
+
+     Case 2: Disputed amount ` 3,00,000:
+     Pre-deposit is ` 2,00,000 plus ` 30,000 (` 3,00,000 x 10%) together is ` 2,30,000. It should
+     be deposited on or before 6th October 2022.
+
+
+(a) (ii) Pre-deposit is ` 1,00,000 (5,00,000 × 20%) it is in addition to pre-deposit of ` 50,000.
+     Case 2: Disputed amount ` 3,00,000:
+     Pre-deposit is ` 2,00,000 plus ` 60,000 (` 3,00,000 × 20%) together is ` 2,60,000, it is in
+
+     addition to pre-deposit of ` 30,000.
+
+(b)
+
+        | Particulars           | Value in `   | GST `   | Remarks                            |
+|:----------------------|:-------------|:--------|:-----------------------------------|
+| (A) Declared tariff ` | Nil          |         | Since, declared tariff less than ` |
+| 950                   |              |         | 1,000. It is exempted supply of    |
+|                       |              |         | service.                           |
+| (B) Declared tariff ` | 1,800        | 216     | Taxable supply. GST @12% is        |
+| 1,800                 |              |         | applicable                         |
+| (C) Declared tariff ` | 8,800        | 2,464   | Taxable supply. Since, declared    |
+| 7,000                 |              |         | value exceeds ` 7,500,             |
+|                       |              |         | applicable rate is 28%. GST will   |
+|                       |              |         | be charged on transaction value.   |
+| (D) Declared value    | 7,000        | 1,260   | Taxable supply. Since, declared    |
+| ` 10,000              |              |         | value not exceeds `7,500,          |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Dos, The Institute of Cost Accountants of India (Statutory Body under an Act of Parliament) Page 7
+     Answer   to MTP_Final_Syllabus     2016_Dec2023_Set1
+
+
+                                           |       |    |       | applicable rate is 18%. GST will   |
+|       |    |       | be charged on transaction value.   |
+|:------|:---|:------|:-----------------------------------|
+| Total |    | 3,940 |                                    |
+
+
+
+
+5.  (a) Describe the power and duties of Anti-profiteering committee. [6]
+
+
+    (b) (i) M/s Navatha a transporter registered under GST, located in Vijayawada.
+            M/s C Ltd. of Chennai registered under GST, received services from M/s
+            Navatha for transport of goods from its warehouse in Vijayawada to
+
+            Guntur. M/s Navatha delivered goods at Guntur.
+            Find the place of supply of service and GST? Whether your answer is
+            different, if M/s C Ltd. of Chennai is not a registered person under GST?
+
+                                                                [4]
+        (ii) Admission to True Theater is ` 90 per ticket for a Tamil Movie as well as
+            for a Hindi Movie plus entertainment tax ` 10% on Tamil Movie and 20%
+
+            on other languages. In the month of November, True Theater sold 2000
+            tickets of Tamil Movie and 1500 tickets of Hindi Movie. Find the value of
+            taxable supply of service. Applicable rate of GST 18% & 28%. Find the
+
+            GST liability if any?                              [4]
+
+Answer:
+(a) Duties & Powers of Anti-profiteering committee:
+
+  The Authority referred to in sub-section (2) shall exercise such powers and discharge such
+  functions as may be prescribed.
+  The Authority can determine the methodology and procedure for determination as to whether
+  the reduction in the rate of tax on the supply of goods or services or the benefit of input tax
+
+  credit has been passed on by the registered person to the recipient by way of commensurate
+  reduction in prices.
+  The Authority would have the following duties:
+
+  (i) to determine whether any reduction in the rate of tax on any supply of goods or services or
+     the benefit of input tax credit has been passed on to the recipient by way of commensurate
+     reduction in prices;
+  (ii) to identify the registered person who has not passed on the benefit of reduction in the rate of
+     tax on supply of goods or services or the benefit of input tax credit to the recipient by way
+
+     of commensurate reduction in prices;
+  (iii) to order,
+     • reduction in prices;
+
+     • return to the recipient, an amount equivalent to the amount not passed on by way of
+        commensurate reduction in prices along with interest at the rate of eighteen per cent.
+        from the date of collection of the higher amount till the date of the return of such
+        amount or recovery of the amount not returned, as the case may be, in case the eligible
+        person does not claim return of the amount or is not identifiable, and depositing the
+        same in the Consumer Welfare Fund;
+
+
+  Dos, The Institute of Cost Accountants of India (Statutory Body under an Act of Parliament) Page 8
+     Answer   to MTP_Final_Syllabus     2016_Dec2023_Set1
+
+
+     • imposition of penalty; and
+   • Cancellation of registration.
+
+   w.e.f. 1-8-2019, as per section 171(3A) of the CGST Act, 2017, where the Authority referred
+   to in sub-section (2), after holding examination as required under the said sub-section comes to
+   the conclusion that any registered person has profiteered under sub-section (1), such person
+   shall be liable to pay penalty equivalent to ten per cent of the amount so profiteered:
+   Provided that no penalty shall be leviable if the profiteered amount is deposited within thirty
+   days of the date of passing of the order by the Authority.
+
+
+(b) (i) If the recipient is registered person:
+    POS = Chennai (i.e. location of recipient). M/s C Ltd., is liable to pay IGST.
+
+    If the recipient is not a registered person:
+    POS = Vijayawada (i.e. Location at which such goods are handed over for their
+    transportation). M/s C Ltd., of Vijayawada is liable to pay CGST & SGST.
+
+
+(b) (ii) Statement showing value of taxable supply of service and GST liability:
+                           | Value of taxable services:   | None       | None                   |
+|:-----------------------------|:-----------|:-----------------------|
+| Tamil Movie                  | ` 1,98,000 | (` 99 x 2000 tickets)  |
+| Hindi Movie                  | ` 1,62,000 | (` 108 x 1500 tickets) |
+
+
+
+
+
+          | Particulars       | 9% CGST   | 9% SGST   | 14%CGST   | 14% SGST   |
+|:------------------|:----------|:----------|:----------|:-----------|
+| GST liability (`) | 17,820    | 17,820    | 22,680    | 22,680     |
+
+
+     Working note:
+
+             | Particulars             | Tamil Movie (`)   | Hindi Movie (`)   |
+|:------------------------|:------------------|:------------------|
+| Rate per ticket         | 90                | 90                |
+| Add: Entertainment tax  | 9                 | 18                |
+| Value of taxable supply | 99                | 108               |
+| Applicable GST rate     | 18%               | 28%               |
+
+
+
+
+
+
+
+6.  (a) Write in details about the consequences of transportation of goods without issue
+
+        of invoice.                                            [6]
+
+
+    (b) Y Ltd. manufactures taxable and exempted goods. Y Ltd. also simultaneously
+        provides taxable as well as exempted output services. Raw material 10,000 units
+        were purchased @ ` 100 per unit used commonly during the month of January
+
+        2023 to produce all final products. GST paid on inputs 12%. Input services
+        commonly used for all goods and services in the month of January 2023. Total
+        ITC on inputs and input services taken into books of account in the relevant tax
+
+        period is ` 1,74,000. Turnover for the month of January 2023 (excluding all taxes)
+
+
+
+  Dos, The Institute of Cost Accountants of India (Statutory Body under an Act of Parliament) Page 9
+     Answer   to MTP_Final_Syllabus     2016_Dec2023_Set1
+
+
+                       | Particulars                              | Value of finished goods   |
+|                                          | (`)                       |
+|:-----------------------------------------|:--------------------------|
+| Taxable supply of goods                  | 2,00,000                  |
+| Exempted supply of goods (` 80 per unit) | 1,00,000                  |
+| Taxable supply of services               | 1,00,000                  |
+| Exempted supply of services              | 50,000                    |
+| Total                                    | 4,50,000                  |
+
+
+
+
+
+
+
+
+        You are required to compute the amount of reversal of input tax credit as per rule
+        42(1)(i) of the CGST Rules, 2017 of the month of January 2023.
+        Note: Each unit of exempted final product needs 2 units of raw materials.
+
+        Assumed that there is no process loss.                 [8]
+
+Answer:
+
+(a) The consequences of transportation of goods without issue of invoice:
+  (1) Cases where delivery challan can be issued instead of invoice: The consigner issue a
+  delivery challan, serially numbered not exceeding 16 characters, in one or multiple series, in
+  lieu of invoice at the time of removal of goods for transportation, containing the following
+  purposes:
+    (i) supply of liquid gas where the quantity at the time of removal from the place of business
+
+       of the supplier is not known,
+    (ii) transportation of goods for job work
+    (iii)transportation of goods for other than by way of supply, or
+    (iv) such other supplies as may be notified by the board
+  (2) Number of copies of delivery challan: The delivery challan shall be prepared in triplicate.
+  (3) Declaration: Where goods are being transported on a delivery challan in lieu of invoice, the
+
+  same shall be declared as specified in E-way bill.
+  (4) tax invoice to be issued after delivery of goods: [rule 55(4)] where the goods are being
+  transported are for the supply to the recipient but the tax invoice could not be issued at the time
+  removal of goods for the purpose of supply, the supplier shall issue a tax invoice after delivery
+  of goods.
+  (5) Goods transported in CKD/SKD condition or in batches /lots: Where the goods are being
+  transported in a semi knocked down or completely knocked down condition or in batches or
+  lots:
+    The supplier shall issue the complete invoice before dispatch of the first consignment.
+    The supplier shall issue a delivery challan for each of the subsequent consignment, giving
+     reference of the invoice.
+
+    Each consignment shall be accompanied by copies of the corresponding delivery challan
+     along with a duly certified copy of the invoice.
+    The original copy of the invoice shall be sent along with last consignment.
+
+
+(b) Step 1: Calculate common input tax credit on inputs and input services which are used to
+        supply taxable as well as exempted output supplies:
+               | Particulars                                | Value in `   | Working note   |
+|:-------------------------------------------|:-------------|:---------------|
+| Total ITC on inputs and input services     | 1,74,000     | rule 42(1)(a)  |
+| Less: ITC on supplies exclusively used for | Nil          | rule 42(1)(b)  |
+
+
+
+
+
+  Dos, The Institute of Cost Accountants of India (Statutory Body under an Act of Parliament) Page 10
+     Answer   to MTP_Final_Syllabus     2016_Dec2023_Set1
+
+
+    | the purpose other than business             |          |                            |
+|:--------------------------------------------|:---------|:---------------------------|
+| Less: ITC on supplies exclusively used for  | (30,000) | 2,500u x ` 100 x 12% [rule |
+| providing exempted supplies                 |          | 42(1)(c)]                  |
+| Less: ITC not available u/s 17(5) of the    | Nil      | rule 42(1)(d)              |
+| CGST Act, 2017                              |          |                            |
+| Input tax credit which are used to supply   | 1,44,000 | rule 42(1)(e).             |
+| taxable as well as exempted output supplies |          |                            |
+| Less: ITC on supplies used exclusively for  | (90,000) | (10,000u – 2,500u) x 12%   |
+| taxable supply including Zero               |          | As per rule 42(1)(f)       |
+| rated supply (i.e. ITC on normal supplies)  |          |                            |
+| Common ITC, which are used to supply        | 54,000   | As per rule 42(1)(h)       |
+| taxable as well as exempted output supplies |          |                            |
+| (denoted as “C2”)                           |          |                            |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Step 2: Amount of reversal of input tax credit attributable towards exempted supplies rule
+   42(1)(i) of the CGST Rules, 2017 is as follows:
+   (` 1,50,000/4,50,000) x ` 54,000 = ` 18,000/-
+
+   Working Note:
+   (i) Number of units of exempted final products 1,250 units (i.e. ` 1,00,000/` 80 per unit =
+   1,250 units)
+   (ii) Since, each unit of exempted final product needs 2 units of raw materials. Raw material
+   used exclusively for exempted final product 2,500 units (i.e.1,250 units x 2 units = 2,500
+
+   units).
+
+
+
+7.  Answer the following:                                  [7+7=14]
+
+    (a) Whether the benefit of zero rated supply can be allowed to all procurements by a
+        SEZ developer or a SEZ unit such as event management services, hotel and
+
+        accommodation services, consumables etc.?
+
+    (b) Write a brief note on Special Audit under Section 66 of the CGST Act, 2017.
+
+Answer:
+
+(a) As per section 16(1) of the IGST Act, “zero rated supplies” means supplies of goods or services
+  or both to a SEZ developer or a SEZ unit. Whereas, section 16(3) of the IGST Act provides for
+  refund to a registered person making zero rated supplies under bond/LUT or on payment of
+  integrated tax, subject to such conditions, safeguards and procedure as may be prescribed.
+  Further, as per the second proviso to rule 89(1) of the Central Goods and Services Tax Rules,
+  2017 (CGST Rules in short), in respect of supplies to a SEZ developer or a SEZ unit, the
+  application for refund shall be filed by the:
+  (A) supplier of goods after such goods have been admitted in full in the SEZ for authorised
+     operations, as endorsed by the specified officer of the Zone;
+
+  (B) supplier of services along with such evidences regarding receipt of services for authorised
+     operations as endorsed by the specified officer of the Zone.
+
+
+
+  Dos, The Institute of Cost Accountants of India (Statutory Body under an Act of Parliament) Page 11
+     Answer   to MTP_Final_Syllabus     2016_Dec2023_Set1
+
+
+  A conjoint reading of the above legal provisions reveals that the supplies to a SEZ developer or
+  a SEZ unit shall be zero rated and the supplier shall be eligible for refund of unutilized input tax
+  credit or integrated tax paid, as the case may be, only if such supplies have been received by the
+  SEZ developer or SEZ unit for authorized operations. An endorsement to this effect shall have
+  to be issued by the specified officer of the Zone.
+
+  Therefore, subject to the provisions of section 17(5) of the CGST Act, if event management
+  services, hotel, accommodation services, consumables etc. are received by a SEZ developer or a
+  SEZ unit for authorised operations, as endorsed by the specified officer of the Zone, the benefit
+  of zero rated supply shall be available in such cases to the supplier.
+  Definition of turnover of zero-rated supplies of goods amended [Rule 89(4)(C)]
+
+  [Notification No.16/2020 CT dated 23.03.2020]
+  Lower of the two shall be taken:
+
+  ● Zero Rated Value of supply of goods as per GST Invoice or
+  ● 1.5 times the value of like goods domestically supplied by the same or, similarly placed
+  supplier
+  The formula is as follows:
+
+  Refund Amount = (Turnover of zero-rated supply of goods + Turnover of zero-rated supply of
+  services) × Net ITC Adjusted Total Turnover.
+
+(b) Special Audit under Section 66 of the CGST Act, 2017: The law provides that Special audit
+   under section 66 may be directed irrespective of any other audit have been conducted under
+   any other provision of this Act or any other law for the time being in force or otherwise.
+   Example: If an audit has been conducted by tax authorities under section 65 of The GST act,
+
+   special audit under section 66 can still be directed irrespective of any Audit covered under any
+   provisions of this Act or under any Act. The audit of accounts under any other provision or
+   law will not have any relevance in conduct of special audit.
+   Example: Suppose Tax Audit of a Company u/s 44AB of the Income Tax Act, 1961 was
+   concluded. But if Assistant/ Deputy Commissioner during the course of scrutiny or
+   investigation comes across any doubt regarding the nature and complexity of the case in
+   respect to the Interest of Revenue, then also irrespective of any Audit covered under any
+   provisions of this Act or under any Act, Special Audit u/s 66 of the CGST Act can be
+   directed.
+
+   The features of this Audit can be as follows:
+     (1) It is conducted by Chartered Accountant/ Cost Accountant nominated by the
+        commissioner.
+     (2) Audit reports should be shown to Deputy/ Assistant Commissioner.
+
+
+
+                             Section - B
+   Answer Question No. 8 which is compulsory and any two from the rest of this section.
+
+8.  Choose the correct answer with justification/ workings wherever applicable: [3×2=6]
+
+    (i) ________ means vessel or cargo which is abandoned in sea without any hope of
+
+        recovering it.
+        a. Derelict
+
+
+  Dos, The Institute of Cost Accountants of India (Statutory Body under an Act of Parliament) Page 12
+     Answer   to MTP_Final_Syllabus     2016_Dec2023_Set1
+
+
+        b. Jetsam
+        c. Flotsam
+
+        d. Wreck
+    (ii) The type of bill of entry which is used for ex-bond clearance for home
+
+        consumption from the warehousing, is:
+        a. Form I (white)
+        b. Form II (yellow)
+
+        c. Form III (green)
+        d. None of the above
+
+    (iii) Under Foreign Trade Policy export and import goods are broadly categorized.
+        Which of the following statements is correct?
+
+        a. Free i.e. general goods are allowed to be imported without payment of any
+          customs duty.
+        b. Restricted goods are banned and not allowed to import or export.
+
+        c. Restricted goods are allowed to be imported only if used for re-export.
+        d. Restricted goods are allowed to be imported or exported only with
+          authorization.
+
+
+Answer:
+  (i) a
+
+  (ii) c
+  (iii) d
+
+
+
+9.  (a) XYZ Industries Ltd., has imported certain equipment from Japan at an FOB cost
+        of 2,00,000 Yen (Japanese). The other expenses incurred by M/s. XYZ Industries
+
+        in this connection are as follows:
+        (i) Freight from Japan to India Port 20,000 Yen
+        (ii) Insurance paid to Insurer in India ` 10,000
+
+        (iii) Designing charges paid to Consultancy firm in Japan 30,000 Yen
+        (iv) M/s. XYZ Industries had expended ` 1,00,000 in India for certain
+            development activities with respect to the imported equipment.
+
+        (v) XYZ Industries had incurred road transport cost from Mumbai port to
+            their factory in Karnataka ` 30,000.
+        (vi) The Central Board of Indirect Taxes and Customs had notified for purpose
+
+            of section 14(3)* of the Customs Act, 1962 exchange rate of 1 Yen = `
+            0.3948. The interbank rate was 1 Yen = ` 0.40.
+        (vii) M/s XYZ Industries had effected payment to the Bank based on exchange
+
+            rate 1 Yen = ` 0.4150
+
+
+
+  Dos, The Institute of Cost Accountants of India (Statutory Body under an Act of Parliament) Page 13
+     Answer   to MTP_Final_Syllabus     2016_Dec2023_Set1
+
+
+        (viii) The commission payable to the agent in India was 5% of FOB cost of the
+            equipment in Indian Rupees. Arrive at the assessable value for purposes of
+
+            customs duty under the Customs Act, 1962 providing brief notes wherever
+            required with appropriate assumptions.             [8]
+
+
+    (b) An importer imported some goods in February, 2023 and the goods were cleared
+        from Mumbai port for warehousing on 8th February, 2023 after assessment.
+        Assessable value was ` 4,86,000 (US $ 10,000 at the rate of exchange ` 78.60 per
+
+        US $). The rate of duty on that date was 20% (assume that no additional duty is
+        payable). The goods were warehoused at Pune and were cleared from Pune
+        warehouse on 4th March, 2023, when rate of duty was 12% and exchange rate
+
+        was ` 48.75 = 1US $. What is the duty payable while removing the goods from
+        Pune on 4th March, 2023? (Applicable rate of Social Welfare Surcharge @ 10%).
+                                                                [4]
+
+Answer:
+(a) Statement showing computation of Assessable Value for the imported goods
+       | Particulars                       | Amount in   | Remarks                         | Working note    |
+|                                   | Yen         |                                 |                 |
+|:----------------------------------|:------------|:--------------------------------|:----------------|
+| Free on Board (FOB)               | 2,00,000    |                                 |                 |
+| Designing charges                 | 30,000      | Addable into the assessable     |                 |
+|                                   |             | value                           |                 |
+| Development charges               | —           | Not addable into the assessable |                 |
+|                                   |             | value, because these are post   |                 |
+|                                   |             | shipment expenses               |                 |
+| Road transport charges            | —           | Not addable into the assessable |                 |
+|                                   |             | value, because these are post   |                 |
+|                                   |             | shipment expenses               |                 |
+| Commission                        | 10,000      | Addable into the assessable     | 2,00,000 x 5% = |
+|                                   |             | value                           | 10,000          |
+| FOB value of the                  | 2,40,000    |                                 |                 |
+| Customs                           |             |                                 |                 |
+|                                   | Amount in   |                                 |                 |
+|                                   | Rupees      |                                 |                 |
+| Total                             | 94,752      | Exchange rate of the Central    | 2,40,000 Yen x  |
+|                                   |             | Board of Excise and Customs     | 0.3948          |
+|                                   |             | (CBIC) is relevant              |                 |
+| Insurance                         | 10,000      | Addable into the assessable     |                 |
+|                                   |             | value                           |                 |
+| Freight                           | 7,896       | Addable into the assessable     | 20,000 x 0.3948 |
+|                                   |             | value                           |                 |
+| Total CIF value/ Assessable Value |             | 1,12,648                        |                 |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b) The rate of exchange will be ` 78.60 per USD
+
+  Assessable value (i.e. US $ 10,000 at ` 78.60 per US $) = ` 7, 86,000
+
+
+  Dos, The Institute of Cost Accountants of India (Statutory Body under an Act of Parliament) Page 14
+     Answer   to MTP_Final_Syllabus     2016_Dec2023_Set1
+
+
+  Rate of duty = @ 12%.
+  Basic customs duty payable = ` 94,320
+  Social Welfare Surcharge @ 10% = ` 9,432
+
+  Total Duty payable = ` 1,03,752.
+
+
+
+10. (a) The assessee-respondent had been importing “Orange Shock Tube” from the
+        exporter at a unit price of US$0.0150 per ft till November, 2022 when the price
+        was reduced to US$0.0141 per ft. However, in June, 2001, the importer declared
+
+        the value of the imported tubes at a unit price of US$0.0100 per ft. Revenue
+        contended that declared value was substantially lower than the actual value i.e.
+        the assessee had under-valued the goods. Therefore, the value had to be
+
+        determined as per erstwhile rule 5 of Customs Valuation Rules, 1988 [now rule4
+        of Customs Valuation (Determination of value of Imported Goods) Rules, 2007],
+        viz., transactional value of identical goods. In this regard, the assessee provided
+
+        the explanation that the reduction in price was subject to mutual agreement that
+        he would purchase 100% of its annual requirement from the same exporter.
+        Justify.                                               [3]
+
+    (b) Mention the supplies which can be considered as deemed export under Foreign
+        Trade Policy 2023.                                     [9]
+
+
+Answer:
+(a) There is no undervaluation and hence, transactional value should be accepted as assessable
+   value.
+   [CCus. v Initiating Explosives Systems (I) Ltd. 2008 (224) ELT 343 (SC)]
+
+
+(b) The following supplies considered as deemed exports: Goods supplied by a manufacturer:
+   1. Supply of goods against Advance Authorisation/Advance Authorisation for Annual
+
+     Requirement/ DFIA.
+   2. Supply of goods to units located in EOU/STP/BTP/EHTP.
+   3. Supply of capital goods against EPCG authorization.
+
+   4. Supply of marine freight containers by 100% EOU provided said containers are exported
+     within 6 months by another 100% EOU.
+
+   Goods supplied by a Main contractor/sub-contractor:
+   1. Supply of goods to projects or turnkey contracts financed by multilateral or bilateral
+
+     agencies/Funds notified by Department of Economic Affairs (DEA), under International
+     Competitive Bidding.
+   2. Supply of goods to any project where import is permitted at zero customs duty.
+
+   3. Supply of goods to mega power projects against International Competitive Bidding.
+   4. Supply to goods to UN or international organisations.
+
+
+
+  Dos, The Institute of Cost Accountants of India (Statutory Body under an Act of Parliament) Page 15
+     Answer   to MTP_Final_Syllabus     2016_Dec2023_Set1
+
+
+   5. Supply of goods to nuclear projects through competitive bidding (need not be international
+     competitive bidding).
+
+
+11. (a) Mr. X an importer imported certain goods CIF value was US $ 20,000 and
+        quantity 1,000 Kgs. Exchange rate was 1 US $ = ` 50 on date of presentation of
+
+        Bill of Entry. Customs Duty rates are — (i) Basic Customs Duty 12%(ii) SWS @
+        10% There is no excise duty payable on these goods if manufactured in India. As
+        per Notification issued by the Government of India, anti-dumping duty has been
+
+        imposed on these goods. The anti-dumping duty will be equal to difference
+        between amount calculated @ US $ 30 per kg and ‘landed value’ of goods.
+        Compute Customs Duty liability and anti-dumping liability. [7]
+
+    (b) Write down a comparative study on RoDTEP (Remission of Duties and Taxes on
+        Exported Products) and Merchandise Exports from India Scheme (MEIS). [5]
+
+Answer:
+(a) Part I                                             `
+
+  Total CIF Price/Assessable Value US $ 20,000 x ` 50 = 10,00,000
+  Basic duty @ 12%                                = 1,20,000
+  Sub-total                                       = 11,20,000
+  Add: SWS 10% on ` 1,20,000                      = 12,000
+
+  Value of imported goods                         = 11,32,000
+  Total Customs Duty payable is ` 1,32,000.
+
+  Part II
+  Rate as per Anti-Dumping Notification is ` 15,00,000 [US $ 30 per kg x 1,000 Kgs x ` 50]
+
+  Part III
+  Computation of anti-dumping duty:
+
+  Rate as per Anti-Dumping Notification = ` 15,00,000
+  Less: Value of imported goods as computed above = ` (11,32,000)
+  Anti-Dumping Duty payable = ` 3,68,000
+
+
+(b) RoDTEP vs Merchandise Export from India Scheme (MEIS):
+    | Feature          | RoDTEP                             | MEIS                           |
+|:-----------------|:-----------------------------------|:-------------------------------|
+| Incentive Scheme | Refund of indirect taxes on        | Incentive on exports of goods  |
+|                  | inputs used in the manufacture of  | in form of transferable scrips |
+|                  | exported products that are not     |                                |
+|                  | being currently reimbursed in      |                                |
+|                  | any other existing schemes.        |                                |
+| Mode of issue    | Issued in the form of transferable | Issued in the form of          |
+|                  | duty credit/ electronic scrip,     | transferable scrips (physical  |
+|                  | which will be maintained in        | copy)                          |
+|                  | electronic ledger                  |                                |
+| WTO compliant    | Yes. It is as per WTO norms.       | No.                            |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Dos, The Institute of Cost Accountants of India (Statutory Body under an Act of Parliament) Page 16
+     Answer   to MTP_Final_Syllabus     2016_Dec2023_Set1
+
+
+    | Incentive    | At a notified rate as a percentage   | As a % of realised FOB value    |
+|              | of Freight On Board (FOB)            | of exports in free foreign      |
+|              | value. Rebate on certain export      | exchange or FOB value of        |
+|              | products will also be subject to     | exports as per shipping Bill,   |
+|              | value cap per unit of the            | whichever is lower.             |
+|              | exported product.                    |                                 |
+|:-------------|:-------------------------------------|:--------------------------------|
+| Transferable | Transferable in open market.         | Transferable in open market.    |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Dos, The Institute of Cost Accountants of India (Statutory Body under an Act of Parliament) Page 17
